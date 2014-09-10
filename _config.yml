@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Eden Lin
 locale: en_US
-description: Describe your website here.
+description: Hi, I'm Eden Lin. A Forth year Comupter Science major at University of California, San Diego.
 logo: site-logo.png
 search: true
 url: 
@@ -32,13 +32,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Eden Lin
+  avatar: https://scontent-a-pao.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10407556_10203910680360492_3639153633115241071_n.jpg?oh=aad0a8762927e6b13fc155997272ca1f&oe=54917EA2
+  email: edenlin18@gmail.com
   disqus-shortname:
   twitter: #username
-  facebook: #username
-  github: #username
+  facebook: https://www.facebook.com/eden.lin.90
+  github: https://github.com/edenlin18
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
