@@ -6,7 +6,7 @@ published: true
 ---
 
 ‍
-## Eden Lin  
+**##  Eden Lin**
 6095 Agee St, San Diego, CA 92122    |    (626)688-1851    |    edl023@ucsd.edu  
 
 OBJECTIVE  
@@ -37,20 +37,20 @@ Relevant Coursework
 ·   Digital Systems Laboratory  
 
 PROJECT EXPERIENCE  
-Calculator  1/6/2014 – 3/14/2014  
+Calculator    1/6/2014 – 3/14/2014  
 ·   Course project using data structures list, stack, and tree to simulate a calculator.  
-hackTECH Hackathon  1/24/2014 – 1/26/2014  
+hackTECH Hackathon    1/24/2014 – 1/26/2014  
 ·   Collaborated in a team of 4 to develop a study group finder/organizer tied with a server.  
 ·   Developed in Android, used AWS.  
 
 ADDITIONAL EXPERIENCE  
-Unpaid Computer Science Tutor  2011 - Present  
+Unpaid Computer Science Tutor    2011 - Present  
 ·   Pasadena City College, and UC San Diego  
 ·   Tutored peers in C, C++, and Java.  
 Robotics Competition and STEM EXPO  6/1/2013  
 ·   Helped competitors with technical and programming issues.  
 ·   Took the role of referee in the competition.  
-Unpaid Math Tutor  2011 - 2013  
+Unpaid Math Tutor    2011 - 2013  
 ·   Pasadena City College  
 ·   Tutored high school students with their math and to help them getting a 20% to 30% improvement.  
 
