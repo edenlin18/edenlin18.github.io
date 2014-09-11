@@ -32,13 +32,13 @@ published: true
 * Tools: QT, Dev C++, Eclipse, JUnit, Git, Android ADT, Secure Shell, Vim, AWS, GAE, datastore
 * Technique: OOD, Design Patterns, Mobile Software Development  
 **Relevant Coursework**
-Course1 | Course2  
-:--:|:--:  
-Statistical Methods | Introduction to Java  
-Basic Data Structures and OOD | Software Tools & Techniques Lab  
-Introduction to Discrete Mathematics | Mathematics for Algorithms and Systems  
-Computer Org. & Systems Programming | Components & Design Techniques for Digital Systems  
-Digital Systems Laboratory |  
+| Course1 | Course2 |
+|:--:|:--:|  
+| Statistical Methods | Introduction to Java |
+| Basic Data Structures and OOD | Software Tools & Techniques Lab |
+| Introduction to Discrete Mathematics | Mathematics for Algorithms and Systems |
+| Computer Org. & Systems Programming | Components & Design Techniques for Digital Systems |
+| Digital Systems Laboratory |  
 
 
 
