@@ -20,19 +20,18 @@ published: true
 ### OBJECTIVE
 * To obtain an internship position in software engineering.
 
-### Education  
+### Education
 | Degree | Major | Institution | Graduation Year | Overall GPA |  
 |:--:|:--:|:--:|:--:|:--:|:--:|  
 | Bachelor of Science | Computer Science | University of California, San Diego | 2016 Winter (expected) | 3.95/4.00 |  
 
 ### SKILLS & ABILITIES
-**Qualifications Summary**
+**Qualifications Summary**  
 * Languages: C, C++, Java, SPARC Assembly, Shell Script, R, XML
 * Operating System: Windows, Linux, Android, Mac
 * Tools: QT, Dev C++, Eclipse, JUnit, Git, Android ADT, Secure Shell, Vim, AWS, GAE, datastore
-* Technique: OOD, Design Patterns, Mobile Software Development
-
-**Relevant Coursework**  
+* Technique: OOD, Design Patterns, Mobile Software Development  
+**Relevant Coursework**
 Course1 | Course2  
 :--:|:--:  
 Statistical Methods | Introduction to Java  
