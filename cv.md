@@ -38,7 +38,7 @@ published: true
 | Basic Data Structures and OOD | Software Tools & Techniques Lab |
 | Introduction to Discrete Mathematics | Mathematics for Algorithms and Systems |
 | Computer Org. & Systems Programming | Components & Design Techniques for Digital Systems |
-| Digital Systems Laboratory |  
+| Digital Systems Laboratory |  |  
 
 
 
