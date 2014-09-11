@@ -31,9 +31,7 @@ published: true
 | Basic Data Structures and OOD | Software Tools & Techniques Lab |
 | Introduction to Discrete Mathematics | Mathematics for Algorithms and Systems |
 | Computer Org. & Systems Programming | Components & Design Techniques for Digital Systems |
-| Digital Systems Laboratory |
-
-
+| Digital Systems Laboratory |  |
 
 ### GitHub Projects
 * [prat0318/2048-tetris](http://github.com/prat0318/2048-tetris) : Live at [2048-tetris.com](http://2048-tetris.com)
