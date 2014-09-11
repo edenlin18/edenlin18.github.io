@@ -8,16 +8,14 @@ published: true
 ##Eden Lin
 [http://edenlin18.github.io](http://edenlin18.github.io)
 
-`6095 Agee St, San Diego, CA 92122`\ \ \ \ `edenlin18@gmail.com`\ \ \ \ `+1 (626) 688-1851`
+`6095 Agee St, San Diego, CA 92122`    `edenlin18@gmail.com`    `+1 (626) 688-1851`
 
 ### OBJECTIVE
 * To obtain an internship position in software engineering.
 
 ### Education
 | Degree | Major | Institution | Graduation Year | Overall GPA |
-
 |:--:|:--:|:--:|:--:|:--:|:--:|
-
 | Bachelor of Science | Computer Science | University of California, San Diego | 2016 Winter (expected) | 3.95/4.00 |
 
 ### SKILLS & ABILITIES
