@@ -5,6 +5,13 @@ permalink: /cv/
 published: true
 ---
 
+dog | bird | cat
+----|------|----
+foo | foo  | foo
+bar | bar  | bar
+baz | baz  | baz
+
+
 ##Eden Lin
 [http://edenlin18.github.io](http://edenlin18.github.io)  
 `6095 Agee St, San Diego, CA 92122` `edenlin18 @ gmail.com` `+1 (626) 688-1851`
