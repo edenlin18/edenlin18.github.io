@@ -26,13 +26,6 @@ published: true
 * Tools: QT, Dev C++, Eclipse, JUnit, Git, Android ADT, Secure Shell, Vim, AWS, GAE, datastore
 * Technique: OOD, Design Patterns, Mobile Software Development  
 **Relevant Coursework**
-| Course1 | Course2 |
-|:--:|:--:|  
-| Statistical Methods | Introduction to Java |
-| Basic Data Structures and OOD | Software Tools & Techniques Lab |
-| Introduction to Discrete Mathematics | Mathematics for Algorithms and Systems |
-| Computer Org. & Systems Programming | Components & Design Techniques for Digital Systems |
-| Digital Systems Laboratory |  |
 
 ### GitHub Projects
 * [prat0318/2048-tetris](http://github.com/prat0318/2048-tetris) : Live at [2048-tetris.com](http://2048-tetris.com)
