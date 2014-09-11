@@ -21,6 +21,10 @@ published: true
 * To obtain an internship position in software engineering.
 
 ### Education
+| Degree        | Major           | Institution  |
+|:-------------:|:-------------:|:-----:|
+| Bachelor of Science      | Computer Science | University of California, San Diego |
+
 | Degree | Major | Institution | Graduation Year | Overall GPA |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | Bachelor of Science | Computer Science | University of California, San Diego | 2015 | 3.95/4.00 |
