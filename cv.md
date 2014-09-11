@@ -13,6 +13,10 @@ published: true
 * To obtain an internship position in software engineering.
 
 ### Education
+ Degree | Major | Institution | Graduation Year | GPA
+:--:|:--:|:--:|:--:|:--:
+Master of Science | Computer Science | University of Texas at Austin | 2015 | 3.55/4
+
  Degree | Major | Institution | Graduation Year | Major GPA | Overall GPA 
 :--:|:--:|:--:|:--:|:--:|:--:
 Bachelor of Science | Computer Science | University of California, San Diego | 2015 Winter (expected) | 4.00/4.00 | 3.95/4.00
