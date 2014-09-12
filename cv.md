@@ -8,7 +8,8 @@ published: true
 ##Eden Lin
 [http://edenlin18.github.io](http://edenlin18.github.io)
 
-`6095 Agee St, San Diego, CA 92122`    `edenlin18@gmail.com`    `+1 (626) 688-1851`
+`6095 Agee St, San Diego, CA 92122			edenlin18@gmail.com			+1 (626) 688-1851`
+
 
 ### OBJECTIVE
 * To obtain an internship position in software engineering.
@@ -16,9 +17,10 @@ published: true
 ### Education
 
 
-| Degree | Major | Institution | Graduation Year | Overall GPA |
-|:-------------------:|:----------------:|:-----------------------------------:|:----------------------:|:-----------:|
-| Bachelor of Science | Computer Science | University of California, San Diego | 2016 Winter (expected) | 3.95/4.00 |
+| Degree | Major | Institution | Graduation Year | Major GPA | Overall GPA |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Bachelor of Science | Computer Science | University of California, San Diego | 2016 Winter (expected) | 4.00/4.00 | 3.95/4.00 |
+
 
 ### SKILLS & ABILITIES  
 **Qualifications Summary**  
@@ -26,6 +28,7 @@ published: true
 * Operating System: Windows, Linux, Android, Mac  
 * Tools: QT, Dev C++, Eclipse, JUnit, Git, Android ADT, Secure Shell, Vim, AWS, GAE, datastore  
 * Technique: OOD, Design Patterns, Mobile Software Development
+
 
 **Relevant Coursework**
 
@@ -37,14 +40,6 @@ published: true
 | * Computer Org. & Systems Programming | * Components & Design Techniques for Digital Systems |
 | * Digital Systems Laboratory |  |
 
-
-### GitHub Projects
-* [prat0318/2048-tetris](http://github.com/prat0318/2048-tetris) : Live at [2048-tetris.com](http://2048-tetris.com)
-    - Wrote a Tetris variant of 2048 game, 1M+ unique visits
-    - Made it to the front page of Hacker News for a day(~150 pts), mentioned in TechCrunch.
-* [prat0318/gitator](http://github.com/prat0318/gitator) : Live at [Gitator.com](http://gitator.com)
-    - Finds relevant repositories based on an user's GitHub profile.
-    - Written in Ruby on Sinatra and uses Github's Octokit gem
 
 ### Technical Skills
 * **Programming Languages**: `Ruby` `Python` `Java` `C++` `Javascript` `PHP`
