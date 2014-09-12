@@ -8,8 +8,7 @@ published: true
 ##Eden Lin
 [http://edenlin18.github.io](http://edenlin18.github.io)
 
-`6095 Agee St, San Diego, CA 92122			edenlin18@gmail.com			+1 (626) 688-1851`
-
+`6095 Agee St, San Diego, CA 92122`    `edenlin18@gmail.com`    `+1 (626) 688-1851`
 
 ### OBJECTIVE
 * To obtain an internship position in software engineering.
@@ -17,9 +16,9 @@ published: true
 ### Education
 
 
-| Degree | Major | Institution | Graduation Year | Major GPA | Overall GPA |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| Bachelor of Science | Computer Science | University of California, San Diego | 2016 Winter (expected) | 4.00/4.00 | 3.95/4.00 |
+| Degree | Major | Institution | Graduation Year | Overall GPA |
+|:-:|:-:|:-:|:-:|:-:|
+| Bachelor of Science | Computer Science | University of California, San Diego | 2016 Winter (expected) | 3.95/4.00 |
 
 
 ### SKILLS & ABILITIES  
@@ -47,10 +46,10 @@ published: true
 * **Databases**: `MySQL` `PostgreSQL` `IBM Informix` `IBM DB2`
 
 
-
 ### Academic Achievements
 * Was among the top 5% in the institute merit list of the undergraduate batch at IIT Kharagpur.
 * Secured 383rd Rank in IIT-JEE 2005, an exam conducted by Indian Institute of Technology(s).
+
 
 ### Professional Experience
 * Graduate Research Assistant, CTR, UT Austin (Sept. 2013 â€“ Jan. 2014)
@@ -66,10 +65,12 @@ published: true
     - Was awarded Smart CADian award for resolving an obscure deadlock situation, making Informix JDBC driver more robust.
     - Technologies used: `Java` `IBM Informix` `IBM DB2`
 
+
 ### Other Personal Projects
 * Designed product _Omerta_, a multi-user chat room application in j2me using Sun Wireless Toolkit platform.
     - Was awarded 1<sup>st</sup> position for the product in [Envision](http://www.ecell-iitkgp.org/envision.php), Product Innovation Contest, IIT KGP.
     - Was awarded 1<sup>st</sup> position for the product in Javawise, J2ME s/w Development Contest at IIT Kharagpur, 2008 and 2009 continuously.
+
 
 ### Graduate Courses Taken
 * [Distributed Computing](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/13F/)
@@ -80,21 +81,3 @@ published: true
 ### Undergraduate Courses Taken
 * [Network Systems](http://www.facweb.iitkgp.ernet.in/~agupta/netlab/)
 * [Graph Theory](http://cse.iitkgp.ac.in/~agupta/graph/)
-
-### Research Experience
-* Undergraduate project, Sanyog Lab, IIT Kharagpur (Jul. 2008 â€“ May 2009)
-    - Designing and Formal modelling of embedded systems for project Sanyog.
-    - Skills Developed: Low level system design, theorem verification using Prolog and Coq
-
-### Patents
-* US Patent X,XXX,634 - **[Another exotic title like bed cover with an inflatable human form.]()**, issued on September 15, 1992.
-
-### Publications
-* Michl Dugls, Mrclo Dsconi **[Some exotic dummy title like potentials arising from string compactifications]()** arXiv: 1206.1885, June 2012.
-
-### Memberships
-* Member of the ACM awesomest humans secret group, 2008-present
-
-### Extra Curricular Awards
-* Was awarded 2<sup>nd</sup> position in Bionetics, Coding Event, Genesis 09 at IIT Kharagpur.
-* Microsoft Student Partner of IIT Kharagpur from the period July 08 â€“ June 09.
