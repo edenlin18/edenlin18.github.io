@@ -23,9 +23,12 @@ published: true
 
 ### SKILLS & ABILITIES  
 **Qualifications Summary**  
-* Languages: C, C++, Java, SPARC Assembly, Shell Script, R, XML  
-* Operating System: Windows, Linux, Android, Mac  
-* Tools: QT, Dev C++, Eclipse, JUnit, Git, Android ADT, Secure Shell, Vim, AWS, GAE, datastore  
+* Languages: C, C++, Java, SPARC Assembly, Shell Script, R, XML
+
+* Operating System: Windows, Linux, Android, Mac
+
+* Tools: QT, Dev C++, Eclipse, JUnit, Git, Android ADT, Secure Shell, Vim, AWS, GAE, datastore
+
 * Technique: OOD, Design Patterns, Mobile Software Development
 
 
