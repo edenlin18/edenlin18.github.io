@@ -22,7 +22,8 @@ published: true
 
 
 ### SKILLS & ABILITIES  
-**Qualifications Summary**  
+**Qualifications Summary**
+
 * Languages: C, C++, Java, SPARC Assembly, Shell Script, R, XML
 
 * Operating System: Windows, Linux, Android, Mac
@@ -35,7 +36,8 @@ published: true
 **Relevant Coursework**
 
 
-|:--:|:--:|  
+|:--:|:--:|
+
 | * Statistical Methods | * Introduction to Java |
 | * Basic Data Structures and OOD | * Software Tools & Techniques Lab |
 | * Introduction to Discrete Mathematics | * Mathematics for Algorithms and Systems |
