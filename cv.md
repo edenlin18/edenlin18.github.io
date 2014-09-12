@@ -34,14 +34,15 @@ published: true
 
 
 **Relevant Coursework**
-
-
-|:--:|:--:|
-| Statistical Methods | Introduction to Java |
-| Basic Data Structures and OOD | Software Tools & Techniques Lab |
-| Introduction to Discrete Mathematics | Mathematics for Algorithms and Systems |
-| Computer Org. & Systems Programming | Components & Design Techniques for Digital Systems |
-| Digital Systems Laboratory |  |
+* [Statistical Methods]
+* [Introduction to Java]
+* [Basic Data Structures and OOD]
+* [Software Tools & Techniques Lab]
+* [Introduction to Discrete Mathematics]
+* [Mathematics for Algorithms and Systems]
+* [Computer Org. & Systems Programming]
+* [Components & Design Techniques for Digital Systems]
+* [Digital Systems Laboratory]
 
 
 ### Technical Skills
