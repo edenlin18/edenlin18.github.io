@@ -18,9 +18,9 @@ published: true
 ### **Education**
 
 
-| Degree | Major | Institution | Graduation Year | Overall GPA |
-|:-:|:-:|:-:|:-:|:-:|
-| Bachelor of Science | Computer Science | University of California, San Diego | 2016 Winter (expected) | 3.95/4.00 |
+| Degree | Major | Institution | Graduation Year | Major GPA | Overall GPA |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Bachelor of Science | Computer Science | University of California, San Diego | 2015 Winter | 4.00/4.00 | 3.95/4.00 |
 
 
 ### **SKILLS & ABILITIES**
