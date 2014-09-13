@@ -46,26 +46,21 @@ published: true
 
 
 ### **PROJECT EXPERIENCE**
-* _Calculator_
-(1/6/2014 – 3/14/2014)
+* **_Calculator_ (1/6/2014 – 3/14/2014)**
 	- Course project using data structures list, stack, and tree to simulate a calculator.
-* _hackTECH Hackathon_
-(1/24/2014 – 1/26/2014)
+* **_hackTECH Hackathon_ (1/24/2014 – 1/26/2014)**
 	- Collaborated in a team of 4 to develop a study group finder/organizer tied with a server.
 	- Developed in Android, used AWS.
 
 
 ### **ADDITIONAL EXPERIENCE**
-* _Unpaid Computer Science Tutor_
-(2011 - Present)
+* **_Unpaid Computer Science Tutor_ (2011 - Present)**
 	- Pasadena City College, and UC San Diego
 	- Tutored peers in C, C++, and Java.
-* _Robotics Competition and STEM EXPO_
-(6/1/2013)
+* **_Robotics Competition and STEM EXPO_ (6/1/2013)**
 	- Helped competitors with technical and programming issues. 
 	- Took the role of referee in the competition.
-* _Unpaid Math Tutor_
-(2011 - 2013)
+* **_Unpaid Math Tutor_ (2011 - 2013)**
 	- Pasadena City College
     - Tutored high school students with their math and to help them getting a 20% to 30% improvement.
 
