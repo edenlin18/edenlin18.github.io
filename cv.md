@@ -13,6 +13,7 @@ published: true
 `6095 Agee St, San Diego, CA 92122`    `edenlin18@gmail.com`    `+1 (626) 688-1851`
 
 ### OBJECTIVE
+
 * To obtain an internship position in software engineering.
 
 ### Education
@@ -27,11 +28,8 @@ published: true
 **Qualifications Summary**
 
 * Languages: C, C++, Java, SPARC Assembly, Shell Script, R, XML, Ruby, JSon
-
 * Operating System: Windows, Linux, Android, Mac
-
 * Tools: QT, Dev C++, Eclipse, JUnit, Git, Android ADT, Secure Shell, Vim, AWS, GAE, datastore, Jekyll
-
 * Technique: OOD, Design Patterns, Mobile Software Development
 
 
