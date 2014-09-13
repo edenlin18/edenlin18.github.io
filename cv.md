@@ -9,7 +9,9 @@ published: true
 ## **Eden Lin**
 [http://edenlin.me](http://edenlin.me)
 
-`6095 Agee St, San Diego, CA 92122`    `edenlin18@gmail.com`    `+1 (626) 688-1851`
+`6095 Agee St, San Diego, CA 92122`
+`edenlin18@gmail.com`
+`+1(626)688-1851`
 
 ### **OBJECTIVE**
 
