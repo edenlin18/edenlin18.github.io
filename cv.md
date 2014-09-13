@@ -3,15 +3,13 @@ layout: page
 title: CV
 permalink: /cv/
 published: true
-
 ---
-
 
 ## **Eden Lin**
 [http://edenlin.me](http://edenlin.me)
 
 6095 Agee St, San Diego, CA 92122  
-[edenlin18@gmail.com](mailto:edenlin18@gmail.com)  
+[edl023@ucsd.edu](mailto:edl023@ucsd.edu)  
 +1 (626) 688-1851  
 
 ### **OBJECTIVE**
