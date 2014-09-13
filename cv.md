@@ -6,13 +6,6 @@ published: true
 
 ---
 
-
-### Education
- Degree | Major | Institution | Graduation Year | GPA
-:--:|:--:|:--:|:--:|:--:
-Master of Science | Computer Science | University of Texas at Austin | 2015 | 3.55/4
-Bachelor of Technology (Hons.) | Computer Science | Indian Insitute of Technology, Kharagpur (IN) | 2009 | 8.91/10
-
 ## **Eden Lin**
 [http://edenlin.me](http://edenlin.me)
 
@@ -54,16 +47,14 @@ Bachelor of Technology (Hons.) | Computer Science | Indian Insitute of Technolog
 
 ### **PROJECT EXPERIENCE**
 
-_Calculator_
+* _Calculator_
 1/6/2014 – 3/14/2014
+	- Course project using data structures list, stack, and tree to simulate a calculator.
 
-* Course project using data structures list, stack, and tree to simulate a calculator.
-
-_hackTECH Hackathon_
+* _hackTECH Hackathon_
 1/24/2014 – 1/26/2014
-
-* Collaborated in a team of 4 to develop a study group finder/organizer tied with a server.
-* Developed in Android, used AWS. 
+	- Collaborated in a team of 4 to develop a study group finder/organizer tied with a server.
+	- Developed in Android, used AWS. 
 
 
 ### **ADDITIONAL EXPERIENCE**
