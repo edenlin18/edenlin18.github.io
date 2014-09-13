@@ -8,7 +8,8 @@ published: true
 
 
 
-Hello everyone, I am a Taiwanese-American who was born in Maryland 21 years ago.  
+Hello everyone, I am a Taiwanese-American who was born in Maryland 21 years ago.
+
 I'm currently a fourth year Computer Science major at University of California, San Diego  to pursuing my Bachelor of Science degree and am passionate in coding as well as learning the modern technology.
 
 ### More Information
