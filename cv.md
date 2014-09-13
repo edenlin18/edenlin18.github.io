@@ -8,7 +8,7 @@ published: true
 
 
 ## **Eden Lin**
-[http://edenlin18.github.io](http://edenlin18.github.io)
+[http://edenlin.me](http://edenlin.me)
 
 `6095 Agee St, San Diego, CA 92122`    `edenlin18@gmail.com`    `+1 (626) 688-1851`
 
@@ -47,6 +47,16 @@ published: true
 
 
 ### **PROJECT EXPERIENCE**
+
+_Calculator_
+1/6/2014 – 3/14/2014
+* Course project using data structures list, stack, and tree to simulate a calculator.
+
+_hackTECH Hackathon_
+1/24/2014 – 1/26/2014
+* Collaborated in a team of 4 to develop a study group finder/organizer tied with a server.
+* Developed in Android, used AWS. 
+
 
 ### **ADDITIONAL EXPERIENCE**
 
