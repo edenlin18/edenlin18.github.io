@@ -3,10 +3,7 @@ layout: page
 title: About
 permalink: /about/
 published: true
-
 ---
-
-
 
 Hello everyone, I am a Taiwanese-American who was born in Maryland 21 years ago.
 
@@ -24,4 +21,5 @@ After graduating from High School, I became a full-time student at Pasadena City
 ### Contact me
 
 +1 (626) 688-1851  
+[edl023@ucsd.edu](mailto:edl023@ucsd.edu)  
 [edenlin18@gmail.com](mailto:edenlin18@gmail.com)
