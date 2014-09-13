@@ -24,16 +24,14 @@ published: true
 
 
 ### **SKILLS & ABILITIES**
-**Qualifications Summary**
-
+**Qualifications Summary**  
 * Languages: C, C++, Java, SPARC Assembly, Shell Script, R, XML, Ruby, JSon
 * Operating System: Windows, Linux, Android, Mac
 * Tools: QT, Dev C++, Eclipse, JUnit, Git, Android ADT, Secure Shell, Vim, AWS, GAE, datastore, Jekyll
 * Technique: OOD, Design Patterns, Mobile Software Development
 
 
-**Relevant Coursework**
-
+**Relevant Coursework**  
 * Statistical Methods
 * Introduction to Java
 * Basic Data Structures and OOD
@@ -49,33 +47,28 @@ published: true
 
 * _Calculator_
 1/6/2014 – 3/14/2014
-	- Course project using data structures list, stack, and tree to simulate a calculator.
-
+	- Course project using data structures list, stack, and tree to simulate a calculator.  
 * _hackTECH Hackathon_
 1/24/2014 – 1/26/2014
 	- Collaborated in a team of 4 to develop a study group finder/organizer tied with a server.
-	- Developed in Android, used AWS. 
+	- Developed in Android, used AWS.
 
 
-### **ADDITIONAL EXPERIENCE**
-
+### **ADDITIONAL EXPERIENCE**  
 * _Unpaid Computer Science Tutor_
 2011 - Present
 	- Pasadena City College, and UC San Diego
-	- Tutored peers in C, C++, and Java. 
-
-* Robotics Competition and STEM EXPO
+	- Tutored peers in C, C++, and Java.  
+* _Robotics Competition and STEM EXPO_
 6/1/2013
 	- Helped competitors with technical and programming issues. 
-	- Took the role of referee in the competition. 
-
-* Unpaid Math Tutor
+	- Took the role of referee in the competition.  
+* _Unpaid Math Tutor_
 2011 - 2013
 	- Pasadena City College
     - Tutored high school students with their math and to help them getting a 20% to 30% improvement.
 
 
-### **MISCELLANEOUS**
-
+### **MISCELLANEOUS**  
 * U.S. Citizen
 * Fluent in Mandarin
