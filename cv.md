@@ -24,14 +24,16 @@ published: true
 
 
 ### **SKILLS & ABILITIES**
-**Qualifications Summary**  
+**Qualifications Summary**
+
 * Languages: C, C++, Java, SPARC Assembly, Shell Script, R, XML, Ruby, JSon
 * Operating System: Windows, Linux, Android, Mac
 * Tools: QT, Dev C++, Eclipse, JUnit, Git, Android ADT, Secure Shell, Vim, AWS, GAE, datastore, Jekyll
 * Technique: OOD, Design Patterns, Mobile Software Development
 
 
-**Relevant Coursework**  
+**Relevant Coursework**
+
 * Statistical Methods
 * Introduction to Java
 * Basic Data Structures and OOD
@@ -43,8 +45,7 @@ published: true
 * Digital Systems Laboratory
 
 
-### **PROJECT EXPERIENCE**
-
+### **PROJECT EXPERIENCE**  
 * _Calculator_
 1/6/2014 – 3/14/2014
 	- Course project using data structures list, stack, and tree to simulate a calculator.  
