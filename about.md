@@ -21,5 +21,4 @@ After graduating from High School, I became a full-time student at Pasadena City
 ### Contact me
 
 +1 (626) 688-1851  
-[edl023@ucsd.edu](mailto:edl023@ucsd.edu)  
-[edenlin18@gmail.com](mailto:edenlin18@gmail.com)
+[edl023@ucsd.edu](mailto:edl023@ucsd.edu)
