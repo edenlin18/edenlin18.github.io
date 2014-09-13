@@ -7,6 +7,12 @@ published: true
 ---
 
 
+### Education
+ Degree | Major | Institution | Graduation Year | GPA
+:--:|:--:|:--:|:--:|:--:
+Master of Science | Computer Science | University of Texas at Austin | 2015 | 3.55/4
+Bachelor of Technology (Hons.) | Computer Science | Indian Insitute of Technology, Kharagpur (IN) | 2009 | 8.91/10
+
 ## **Eden Lin**
 [http://edenlin.me](http://edenlin.me)
 
