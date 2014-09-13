@@ -59,6 +59,22 @@ published: true
 
 ### **ADDITIONAL EXPERIENCE**
 
+* _Unpaid Computer Science Tutor_
+2011 - Present
+	- Pasadena City College, and UC San Diego
+	- Tutored peers in C, C++, and Java. 
+
+* Robotics Competition and STEM EXPO
+6/1/2013
+	- Helped competitors with technical and programming issues. 
+	- Took the role of referee in the competition. 
+
+* Unpaid Math Tutor
+2011 - 2013
+	- Pasadena City College
+    - Tutored high school students with their math and to help them getting a 20% to 30% improvement.
+
+
 ### **MISCELLANEOUS**
 
 * U.S. Citizen
