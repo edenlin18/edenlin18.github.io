@@ -28,7 +28,7 @@ published: true
 **Qualifications Summary**
 
 * Languages: C, C++, Java, SPARC Assembly, Shell Script, R, XML, Ruby, JSon
-* Operating System: Windows, Linux, Android, Mac
+* Operating System: Windows, Linux(CentOS, Ubuntu, OS X), Android
 * Tools: QT, Dev C++, Eclipse, JUnit, Git, Android ADT, Secure Shell, Vim, AWS, GAE, datastore, Jekyll
 * Technique: OOD, Design Patterns, Mobile Software Development
 
